@@ -17,4 +17,4 @@ Este é um projeto vivo, que evoluirá conforme eu desenvolvo novas habilidades 
 
 ## Sobre Mim
 
-[Adicione aqui um pequeno paragraph sobre você, seus objetivos e um link para seu LinkedIn.]
+Como um profissional de tecnologia com dois anos de experiência, dedico-me a criar soluções de software que gerem impacto positivo. Tenho um portfólio de projetos que demonstra meu conhecimento em arquiteturas robustas e um conjunto de tecnologias como JavaScript, Node.js, React, React Native, TypeScript e Next.js. Além disso, estou utilizando metodologias ágeis como Scrum e Kanban para otimizar processos e garantir a entrega de produtos de alta qualidade em ambientes colaborativos. 
